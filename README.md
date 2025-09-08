@@ -12,7 +12,7 @@
 - 🚀 Currently learning **JavaScript, Python, SQL, and Data Visualization tools**  
 - 📊 Interested in simplifying complex concepts so they’re easy to remember forever  
 - 🌱 Exploring **Backend Development + Cloud + AI-powered tools**  
-- 📫 Reach me at: **yourmail@example.com**  
+- 📫 Reach me at: shiva3sundar@gmail.com
 
 ---
 
