@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 B.Tech in Computer Science Engineering  
+- 🎓 B.Tech in Computer Science Engineering @Vels university(VISTAS)
 - 💻 Passionate about **Web Development, Full Stack Engineering, and Data Analytics**  
 - 🚀 Currently learning **JavaScript, Python, SQL, and Data Visualization tools**  
 - 📊 Interested in simplifying complex concepts so they’re easy to remember forever  
