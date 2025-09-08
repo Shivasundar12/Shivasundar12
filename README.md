@@ -1,6 +1,6 @@
 # Shivasundar
 
-<h1 align="center">Hi 👋, I'm General</h1>
+<h1 align="center">Hi 👋, I'm Shivasundar</h1>
 <h3 align="center">B.Tech CSE Student | Full Stack Developer | Data Analyst | Lifelong Learner</h3>
 
 ---
